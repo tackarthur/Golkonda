@@ -45,7 +45,7 @@ Update the src link with the embedded link of your video.
 
 Update the src link with the embedded link provided by powerpoint under the share option.
 
-<iframe src="https://f5.sharepoint.com/:p:/r/sites/F5HackfestFeb23/Shared%20Documents/Egress%20Control%20Dashboard%20and%20Security%20Operations/2023-02-03_hackfest_Egress_Control.pptx?d=wefd1630a9f9845ef9823ae2580e58979&csf=1&web=1&e=QWfYAV" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://f5.sharepoint.com/:p:/r/sites/F5HackfestFeb23/Shared%20Documents/Egress%20Control%20Dashboard%20and%20Security%20Operations/2023-02-03_hackfest_Egress_Control.pptx?d=wefd1630a9f9845ef9823ae2580e58979&csf=1&web=1&e=w00eTf" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 ## Interested? Come join us!
 
