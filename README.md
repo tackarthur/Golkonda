@@ -1,9 +1,11 @@
 ---
-title: 'Project Name'
-date: YYYY-MM-DD
+title: 'Golkonda'
+date: 2023-02-27
 excerpt: 'Solution to help Blue Teams struggling with egress control and identifying malicious activities like C&C (C2) and data exfiltration'
 author: ['David Arthur']
-coverImage: 'http://usanasfoundation.com/uploads/images/2021/02/image_750x_601cc9ac44f29.jpg'
+coverImage: <img
+  src={"http://usanasfoundation.com/uploads/images/2021/02/image_750x_601cc9ac44f29.jpg"
+/>
 tags: ['Hackfest', 'region', 'ANZ, Japan, ASEAN', 'technologies', 'Big-IP, Telemetry Streaming, iRules, ILX, Elastic Search, Kibana, Log Stash, Virus Total']
 team: ['FirstName LastName', 'Yukio', 'Ito']
 team: ['FirstName LastName', 'James', 'Lee']
