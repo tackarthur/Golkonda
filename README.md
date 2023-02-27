@@ -5,7 +5,7 @@ excerpt: 'Egress control and Mitre Att&ck dashboard'
 author: ['David Arthur']
 coverImage: ''
 tags: ['Hackfest', 'ANZ, Japan, ASEAN', 'Big-IP, Telemetry Streaming, iRules, ILX, Elastic Search, Kibana, Log Stash, Virus Total']
-team: ['Yukio', 'Ito', 'James Lee', 'Kayvan Farzaneh', 'Cameron Jenkins']
+team: ['Yukio Ito', 'James Lee', 'Kayvan Farzaneh', 'Cameron Jenkins']
 sponsor: []
 mentor: ['David Arthur']
 ---
