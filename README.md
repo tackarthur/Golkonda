@@ -1,20 +1,17 @@
 ---
 title: 'Golkonda'
 date: 2023-02-27
-excerpt: 'Solution to help Blue Teams struggling with egress control and identifying malicious activities like C&C (C2) and data exfiltration'
+excerpt: 'Egress control and Mitre Att&ck dashboard'
 author: ['David Arthur']
 coverImage: ''
-tags: ['Hackfest', 'region', 'ANZ, Japan, ASEAN', 'technologies', 'Big-IP, Telemetry Streaming, iRules, ILX, Elastic Search, Kibana, Log Stash, Virus Total']
-team: ['FirstName LastName', 'Yukio', 'Ito']
-team: ['FirstName LastName', 'James', 'Lee']
-team: ['FirstName LastName', 'Kayvan', 'Farzaneh']
-team: ['FirstName LastName', 'Cameron', 'Jenkins']
+tags: ['Hackfest', 'ANZ, Japan, ASEAN', 'Big-IP, Telemetry Streaming, iRules, ILX, Elastic Search, Kibana, Log Stash, Virus Total']
+team: ['Yukio', 'Ito', 'James Lee', 'Kayvan Farzaneh', 'Cameron Jenkins']
 sponsor: []
 mentor: ['David Arthur']
 ---
 ## Project Description
 
-description here
+Solution to help Blue Teams struggling with egress control and identifying malicious activities like C&C (C2) and data exfiltration
 
 ## Key Hypothesis
 
