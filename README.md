@@ -39,7 +39,7 @@ Big-IP, Telemetry Streaming, iRules, ILX, Elastic Search, Kibana, Log Stash, Vir
 
 Update the src link with the embedded link of your video.
 
-<iframe width="560" height="315" src="https://web.microsoftstream.com/embed/video/471816ec-fc92-4488-aab7-6654b4714b2f?autoplay=false&showinfo=true" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://web.microsoftstream.com/video/2f7177a0-8684-4ec9-a576-835a844d4d37?list=studio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### POWERPOINT EXAMPLE:
 
